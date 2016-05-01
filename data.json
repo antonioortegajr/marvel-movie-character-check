@@ -1,65 +1,63 @@
 [{
 		"movies": [{
-			"ironman": [{
-				"release-year": 2008
+			"title": "ironman",
+			"release-year": 2008,
+			"production-company": "marvel studios",
+			"cast": [{
+				"iron man": "robert downey jr."
 			}, {
-				"production-company": "marvel studios",
-				"cast": [{
-					"iron man": "robert downey jr."
-				}, {
-					"tony stark": "robert downey jr."
-				}, {
-					"rhodey": "terrence howard"
-				}]
+				"tony stark": "robert downey jr."
+			}, {
+				"rhodey": "terrence howard"
 			}]
+
 
 		}, {
-			"X-Men": [{
-				"release-year": 2000
+			"title": "X-Men",
+			"release-year": 2000,
+			"production-company": "twentieth century fox film corporation",
+			"cast": [{
+				"wolverine": "hugh jackman"
 			}, {
-				"production-company": "twentieth century fox film corporation",
-				"cast": [{
-					"wolverine": "hugh jackman"
-				}, {
-					"logan": "hugh jackman"
-				}, {
-					"professor charles xavier": "patrick stewart"
-				}]
+				"logan": "hugh jackman"
+			}, {
+				"professor charles xavier": "patrick stewart"
 			}]
-
 		}]
+
 
 	},
 
 	{
 		"tv-shows": [{
-			"agents of shield": [{
-				"release-year": 2013
+			"title": "agents of shield",
+			"release-year": 2013,
+
+			"production-company": " abc"
+		}, {
+			"cast": [{
+				"Phil Coulson": "Clark Gregg"
 			}, {
-				"production-company": " abc"
-			}, {
-				"cast": [{
-					"Phil Coulson": "Clark Gregg"
-				}, {
-					" Melinda May": "Ming-Na Wen"
-				}]
+				" Melinda May": "Ming-Na Wen"
 			}]
 		}]
+
+
 
 
 	}, {
 		"cartoons-tv": [{
-			"spider-man the animated series": [{
-				"release - year": 1994
-			}, {
-				"production - company": "Marvel Enterprises"
-			}, {
-				"cast": [{
-					"spider-man": "Christopher Daniel Barnes",
-					"peter parker": "Christopher Daniel Barnes"
-				}]
+			"title": "spider-man the animated series",
+			"release - year": 1994,
+			"production - company": "Marvel Enterprises"
+		}, {
+			"cast": [{
+				"spider-man": "Christopher Daniel Barnes",
+				"peter parker": "Christopher Daniel Barnes"
 			}]
 		}]
+
+
 
 	}
 ]
