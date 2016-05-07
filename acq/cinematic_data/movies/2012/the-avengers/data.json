@@ -1,1 +1,97 @@
-{}
+[{
+	"movies": [{
+		"title": "The Avengers",
+		"release-year": 2012,
+		"production-company": "Marvel Studios",
+		"cast": [{
+			"Iron Man": "Robert Downey Jr."
+		},
+		{
+			"Captain America": "Chris Evans"
+		},
+    {
+      "The Hulk": "Mark Ruffalo"
+    },
+    {
+      "Thor": "Chris Hemsworth"
+    },
+    {
+      "Black Widow": "Scarlett Johansson"
+    },
+    {
+      "Hawkeye": "Jeremy Renner"
+    },
+		{
+			"Loki": "Tom Hiddleston"
+		},
+		{
+      "Agent Phil Coulson": "Clark Gregg"
+    },
+    {
+      "Agent Maria Hill": "Cobie Smulders"
+    },
+    {
+      "Erik Selvig": "Stellan Skarsgård"
+    },
+    {
+      "Nick Fury": "Samuel L. Jackson"
+    },
+		{
+			"Pepper Potts": "Gwyneth Paltrow"
+		},
+		{
+      "Jarvis": "Paul Bettany"
+    },
+    {
+      "The Other": "Alexis Denisof"
+    },
+    {
+      "NASA Scientist": "Tina Benko"
+    },
+    {
+      "Georgi Luchkov": "Jerzy Skolimowski"
+    },
+		{
+			"World Security Concil": "Powers Boothe"
+		},
+		{
+      "World Security Concil": "Jenny Agutter"
+    },
+    {
+      "World Security Concil": "Arther Darbinyan"
+    },
+    {
+      "World Security Concil": "Donald Li"
+    },
+    {
+      "Agent Jasper Sitwell": "Maximiliano Hernández"
+    },
+		{
+			"German Old Man": "Kenneth Tigar"
+		},
+		{
+      "Gala Scientist": "Dieter Riesle"
+    },
+    {
+      "Young Shield Pilot": "Walter Perez"
+    },
+    {
+      "Security Guard": "Harry Dean Stanton"
+    },
+    {
+      "Maintenance Guy": "Josh Cowdery"
+    },
+		{
+			"Waitress": "Ashley Johnson"
+		},
+		{
+      "Young Cop": "Enver Gjokaj"
+    },
+    {
+      "Stan Lee": "Stan Lee"
+    },
+    {
+      "The Hulk": "Lou Ferrigno"
+    }]
+	}]
+}]
