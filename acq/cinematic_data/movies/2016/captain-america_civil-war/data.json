@@ -5,66 +5,46 @@
 		"production-company": "Marvel Studios",
 		"cast": [{
 			"Captain America": "Chris Evens"
-		},
-		{
+		}, {
 			"Iron Man": "Robert Downey Jr."
-		},
-		{
+		}, {
 			"Black Widow": "Scarlett Johansson"
-		},
-		{
+		}, {
 			"Winter Solider": "Sebastian Stan"
-		},
-		{
+		}, {
 			"Falcon": "Anthony Mackie"
-		},
-		{
+		}, {
 			"War Machine": "Don Cheadle"
-		},
-		{
+		}, {
 			"Hawkeye": "Jeremy Renner"
-		},
-		{
+		}, {
 			"Black Panther": "Chadwick Boseman"
-		},
-		{
-      "Vision": "Paul Bettany"
-    },
-    {
-      "Scarlett Witch": "Elizabeth Olsen"
-    },
-    {
-      "Ant-Man": "Paul Rudd"
-    },
-    {
-      "Sharon Carter": "Emily VanCamp"
-    },
-		{
+		}, {
+			"Vision": "Paul Bettany"
+		}, {
+			"Scarlett Witch": "Elizabeth Olsen"
+		}, {
+			"Ant-Man": "Paul Rudd"
+		}, {
+			"Sharon Carter": "Emily VanCamp"
+		}, {
 			"Spider-Man": "Tom Holland"
-		},
-		{
-      "Zemo": "Daniel Brühl"
-    },
-    {
-      "Crossbones": "Frank Grillo"
-    },
-    {
-      "Thaddeus Ross": "William Hurt"
-    },
-    {
-      "Everett K. Ross": "Martin Freeman"
-    },
-		{
+		}, {
+			"Zemo": "Daniel Brühl"
+		}, {
+			"Crossbones": "Frank Grillo"
+		}, {
+			"Thaddeus Ross": "William Hurt"
+		}, {
+			"Everett K. Ross": "Martin Freeman"
+		}, {
 			"May Parker": "Marisa Tomei"
-		},
-		{
-      "King T'Chaka": "John Kani"
-    },
-    {
-      "Howard Stark": "John Slattery"
-    },
-    {
-      "Maria Stark": "Hope Davis"
+		}, {
+			"King T'Chaka": "John Kani"
+		}, {
+			"Howard Stark": "John Slattery"
+		}, {
+			"Maria Stark": "Hope Davis"
 		}]
 
 	}]
