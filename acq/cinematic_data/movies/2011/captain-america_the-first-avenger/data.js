@@ -6,6 +6,8 @@
 		"cast": [{
 			"Captain America": "Chris Evans"
 		}, {
+			"Steve Rogers": "Chris Evans"
+		},  {
 			"Peggy Carter": "Hayley Atwell"
 		}, {
 			"James Buchanan 'Bucky' Barnes": "Sebastian Stan"

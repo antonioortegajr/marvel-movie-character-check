@@ -5,10 +5,14 @@
 		"production-company": "Marvel Studios",
 		"cast": [{
 			"Iron Man": "Robert Downey Jr."
+		},{
+			"Tony Stark": "Robert Downey Jr."
 		}, {
 			"Rhodey": "Terrence Howard"
 		}, {
 			"Obadiah Stane": "Jeff Bridges"
+		},{
+			"Iron Monnger": "Jeff Bridges"
 		}, {
 			"Pepper Potts": "Gwyneth Paltrow"
 		}, {

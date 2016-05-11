@@ -6,15 +6,21 @@
 		"cast": [{
 			"Tony Stark": "Robert Downey Jr."
 		}, {
+			"Iron Man": "Robert Downey Jr."
+		}, {
 			"Pepper Potts": "Gwyneth Paltrow"
 		}, {
 			"Lt. Col. James 'Rhodey' Rhodes": "Don Cheadle"
+		}, {
+			"War Machine": "Don Cheadle"
 		}, {
 			"Natasha Romanoff": "Scarlett Johansson"
 		}, {
 			"Justin Hammer": "Sam Rockwell"
 		}, {
 			"Ivan Vanko": "Mickey Rourke"
+		},  {
+			"Whiplash": "Mickey Rourke"
 		}, {
 			"Nick Fury": "Samuel L. Jackson"
 		}, {

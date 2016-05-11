@@ -6,6 +6,8 @@
 		"cast": [{
 			"Bruce Banner": "Edward Norton"
 		}, {
+			"Hulk": "Lou Ferrigno"
+		}, {
 			"Betty Ross": "Liv Tyler"
 		}, {
 			"Emil Blonsky": "Tim Roth"
@@ -19,8 +21,6 @@
 			"Major Kathleen Sparr": "Christina Cabot"
 		}, {
 			"General Joe Greller": "Peter Mensah"
-		}, {
-			"The Incredible Hulk": "Lou Ferigno"
 		}, {
 			"Stanley": "Paul Soles"
 		}, {
