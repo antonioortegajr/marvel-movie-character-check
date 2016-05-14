@@ -54,8 +54,6 @@
 		}, {
 			"The Collector": "Benicio Del Toro"
 		}, {
-			"Loki as Captain America": "Chris Evans"
-		}, {
 			"Carina": "Ophelia Lovibond"
 		}, ]
 

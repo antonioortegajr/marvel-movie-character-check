@@ -10,11 +10,13 @@
 		}, {
 			"Pepper Potts": "Gwyneth Paltrow"
 		}, {
-			"Lt. Col. James 'Rhodey' Rhodes": "Don Cheadle"
+			"Rhodey": "Don Cheadle"
 		}, {
 			"War Machine": "Don Cheadle"
 		}, {
 			"Natasha Romanoff": "Scarlett Johansson"
+		}, {
+			"Natalie Rushman": "Scarlett Johansson"
 		}, {
 			"Justin Hammer": "Sam Rockwell"
 		}, {

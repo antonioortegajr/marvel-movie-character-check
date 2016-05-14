@@ -6,25 +6,45 @@
 		"cast": [{
 			"Captain America": "Chris Evens"
 		}, {
+			"Steve Rogers": "Chris Evens"
+		}, {
 			"Iron Man": "Robert Downey Jr."
+		}, {
+			"Tony Stark": "Robert Downey Jr."
 		}, {
 			"Black Widow": "Scarlett Johansson"
 		}, {
+			"Natasha Romanoff": "Scarlett Johansson"
+		}, {
 			"Winter Solider": "Sebastian Stan"
+		}, {
+			"Bucky": "Sebastian Stan"
 		}, {
 			"Falcon": "Anthony Mackie"
 		}, {
+			"Sam Wilson": "Anthony Mackie"
+		}, {
 			"War Machine": "Don Cheadle"
+		}, {
+			"Rhodey": "Don Cheadle"
 		}, {
 			"Hawkeye": "Jeremy Renner"
 		}, {
+			"Clint Barton": "Jeremy Renner"
+		}, {
 			"Black Panther": "Chadwick Boseman"
+		}, {
+			"T'Challa": "Chadwick Boseman"
 		}, {
 			"Vision": "Paul Bettany"
 		}, {
 			"Scarlett Witch": "Elizabeth Olsen"
 		}, {
+			"Wanda Maximoff": "Elizabeth Olsen"
+		}, {
 			"Ant-Man": "Paul Rudd"
+		}, {
+			"Scott Lang": "Paul Rudd"
 		}, {
 			"Sharon Carter": "Emily VanCamp"
 		}, {

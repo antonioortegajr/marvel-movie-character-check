@@ -6,6 +6,8 @@
 		"cast": [{
 			"Peter Quill": "Chris Pratt"
 		}, {
+			"Star Lord": "Chris Pratt"
+		}, {
 			"Gamora": "Zoe Saldana"
 		}, {
 			"Drax": "Dave Bautista"
@@ -16,7 +18,7 @@
 		}, {
 			"Ronan": "Lee Pace"
 		}, {
-			"Yondu Udonta": "Michael Rooker"
+			"Yondu": "Michael Rooker"
 		}, {
 			"Nebula": "Karen Gillan"
 		}, {

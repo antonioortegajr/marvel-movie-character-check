@@ -5,10 +5,12 @@
 		"production-company": "Marvel Studios",
 		"cast": [{
 			"Tony Stark": "Robert Downey Jr."
+		},  {
+			"Iron Man": "Robert Downey Jr."
 		}, {
 			"Pepper Potts": "Gwyneth Paltrow"
 		}, {
-			"Colonel James Rhodes": "Done Cheadle"
+			"Rhodey": "Done Cheadle"
 		}, {
 			"Aldrich Killian": "Guy Pearce"
 		}, {

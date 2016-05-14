@@ -6,13 +6,17 @@
 		"cast": [{
 			"Ant-Man": "Paul Rudd"
 		}, {
-			"Dr. Hank Pym": "Michael Douglas"
+			"Scott Lang": "Paul Rudd"
+		}, {
+			"Hank Pym": "Michael Douglas"
 		}, {
 			"Hope Van Dyne": "Evangeline Lily"
 		}, {
 			"Darren Cross": "Corey Stoll"
 		}, {
 			"Paxton": "Bobby Cannavale"
+		}, {
+			"Sam Wilson": "Anthony Mackie"
 		}, {
 			"Falcon": "Anthony Mackie"
 		}, {

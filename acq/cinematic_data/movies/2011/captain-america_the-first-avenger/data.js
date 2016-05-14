@@ -10,7 +10,7 @@
 		},  {
 			"Peggy Carter": "Hayley Atwell"
 		}, {
-			"James Buchanan 'Bucky' Barnes": "Sebastian Stan"
+			"Bucky": "Sebastian Stan"
 		}, {
 			"Colonel Chester Phillips": "Tommy Lee Jones"
 		}, {
@@ -24,9 +24,9 @@
 		}, {
 			"Nick Fury": "Samuel L. Jackson"
 		}, {
-			"Dr. Arnim Zola": "Toby Jones"
+			"Arnim Zola": "Toby Jones"
 		}, {
-			"Timothy 'Dum Dum' Dugan": "Neal McDonough"
+			"Dum Dum Dugan": "Neal McDonough"
 		}, {
 			"Gabe Jones": "Derek Luke"
 		}, {

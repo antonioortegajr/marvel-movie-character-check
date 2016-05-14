@@ -12,7 +12,7 @@
 		}, {
 			"Emil Blonsky": "Tim Roth"
 		}, {
-			"General 'Thunderbolt' Ross": "William Hurt"
+			"Thunderbolt Ross": "William Hurt"
 		}, {
 			"Samuel Sterns": "Tim Blake Nelson"
 		}, {

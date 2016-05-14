@@ -4,19 +4,27 @@
 		"release-year": 2015,
 		"production-company": "Marvel Studios",
 		"cast": [{
-			"": ""
-		}, {
 			"Iron Man": "Robert Downey Jr."
+		}, {
+			"Tony Stark": "Robert Downey Jr."
 		}, {
 			"Thor": "Chris Hemsworth"
 		}, {
 			"Hulk": "Mark Ruffalo"
 		}, {
+			"Bruce Banner": "Mark Ruffalo"
+		}, {
 			"Captain America": "Chris Evens"
+		}, {
+			"Steve Rogers": "Chris Evens"
 		}, {
 			"Black Widow": "Scarlett Johannson"
 		}, {
+			"Natasha Romanoff": "Scarlett Johansson"
+		}, {
 			"Hawkeye": "Jemery Renner"
+		}, {
+			"Clint Barton": "Jeremy Renner"
 		}, {
 			"Ultron": "James Spader"
 		}, {
@@ -24,15 +32,23 @@
 		}, {
 			"War Machine": "Don Cheadle"
 		}, {
+			"Rhodey": "Don Cheadle"
+		}, {
 			"Quicksilver": "Aaron Taylor-Johnson"
 		}, {
+			"Pietro Maximoff": "Aaron Taylor-Johnson"
+		}, {
 			"Scarlett Witch": "Elizabeth Olsen"
+		}, {
+			"Wanda Maximoff": "Elizabeth Olsen"
 		}, {
 			"Vision": "Paul Bettany"
 		}, {
 			"Maria Hill": "Cobie Smulders"
 		}, {
 			"Falcon": "Anthony Mackie"
+		}, {
+			"Sam Wilson": "Anthony Mackie"
 		}, {
 			"Peggy Carter": "Haley Atwell"
 		}, {
@@ -42,7 +58,7 @@
 		}, {
 			"Erik Selvig": "Stellan Skarsgård"
 		}, {
-			"Dr. Helen Cho": "Claudia Kim"
+			"Helen Cho": "Claudia Kim"
 		}, {
 			"Strucker": "Thomas Kretschmann"
 		}, {
