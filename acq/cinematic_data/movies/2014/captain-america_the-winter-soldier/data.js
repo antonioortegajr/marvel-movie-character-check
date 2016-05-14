@@ -6,13 +6,19 @@
 		"cast": [{
 			"Captain America": "Chris Evans"
 		}, {
+			"Steve Rogers": "Chris Evans"
+		}, {
 			"Nick Fury": "Samuel L. Jackson"
 		}, {
 			"Black Widow": "Scarlett Johansson"
 		}, {
+			"Natasha Romanoff": "Scarlett Johansson"
+		}, {
 			"Alexander Pierce": "Robert Redford"
 		}, {
 			"Winter Soldier": "Sebastian Stan"
+		}, {
+			"Sam Wilson": "Anthony Mackie"
 		}, {
 			"Falcon": "Anthony Mackie"
 		}, {
@@ -26,7 +32,7 @@
 		}, {
 			"Peggy Carter": "Hayley Atwell"
 		}, {
-			"Dr. Arnim Zola": "Toby Jones"
+			"Arnim Zola": "Toby Jones"
 		}, {
 			"Smithsonian Guard": "Stan Lee"
 		}, {

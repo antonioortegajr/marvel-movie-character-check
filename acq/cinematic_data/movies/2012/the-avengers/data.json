@@ -6,21 +6,31 @@
 		"cast": [{
 			"Iron Man": "Robert Downey Jr."
 		}, {
+			"Tony Stark": "Robert Downey Jr."
+		}, {
 			"Captain America": "Chris Evans"
 		}, {
-			"The Hulk": "Mark Ruffalo"
+			"Steve Rogers": "Chris Evans"
+		}, {
+			"Hulk": "Mark Ruffalo"
+		}, {
+			"Bruce Banner": "Mark Ruffalo"
 		}, {
 			"Thor": "Chris Hemsworth"
 		}, {
 			"Black Widow": "Scarlett Johansson"
 		}, {
+			"Natasha Romanoff": "Scarlett Johansson"
+		}, {
 			"Hawkeye": "Jeremy Renner"
+		}, {
+			"Clint Barton": "Jeremy Renner"
 		}, {
 			"Loki": "Tom Hiddleston"
 		}, {
 			"Agent Phil Coulson": "Clark Gregg"
 		}, {
-			"Agent Maria Hill": "Cobie Smulders"
+			"Maria Hill": "Cobie Smulders"
 		}, {
 			"Erik Selvig": "Stellan Skarsgård"
 		}, {
@@ -31,9 +41,7 @@
 			"Jarvis": "Paul Bettany"
 		}, {
 			"The Other": "Alexis Denisof"
-		}, {
-			"NASA Scientist": "Tina Benko"
-		}, {
+		},{
 			"Georgi Luchkov": "Jerzy Skolimowski"
 		}, {
 			"World Security Concil": "Powers Boothe"
@@ -47,9 +55,7 @@
 			"Agent Jasper Sitwell": "Maximiliano Hernández"
 		}, {
 			"German Old Man": "Kenneth Tigar"
-		}, {
-			"Gala Scientist": "Dieter Riesle"
-		}, {
+		},{
 			"Young Shield Pilot": "Walter Perez"
 		}, {
 			"Security Guard": "Harry Dean Stanton"
@@ -61,8 +67,6 @@
 			"Young Cop": "Enver Gjokaj"
 		}, {
 			"Stan Lee": "Stan Lee"
-		}, {
-			"Hulk": "Lou Ferrigno"
 		}]
 	}]
 }]
