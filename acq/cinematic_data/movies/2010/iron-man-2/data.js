@@ -16,6 +16,8 @@
 		}, {
 			"Natasha Romanoff": "Scarlett Johansson"
 		}, {
+			"Natalie Rushman": "Scarlett Johansson"
+		}, {
 			"Justin Hammer": "Sam Rockwell"
 		}, {
 			"Ivan Vanko": "Mickey Rourke"
